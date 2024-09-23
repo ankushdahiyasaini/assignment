@@ -1,0 +1,12 @@
+node_modules
+build
+dist
+logs
+.env
+.idea/
+.vscode/
+*.swp
+*.swo
+.cache
+.parcel-cache
+.npm
